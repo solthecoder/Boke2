@@ -84,7 +84,7 @@ Bonus tips: You can even mouse left click to move the water bucket.  If you are 
 
 [![https://www.buymeacoffee.com/solthecoder](niff/buyjava.png)](https://www.buymeacoffee.com/solthecoder)
 
-<b>~=THANK YOU=~</b>
+<b>THANK YOU!!!</b>
 
 ## License
 [Back to top](#Table%20Of%20Contents)
