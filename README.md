@@ -29,9 +29,10 @@
 ## Requirements
 [Back to top](#Table-Of-Contents)
 
-- JDK 8: `openjdk version '1.8.0_292'`
-- IDE: `IDEA, Eclipse or Netbeans`
-- LibGDX: `gdxVersion = '1.10.0'`
+- Gradle: `'7.0.2'`
+- OpenJDK : `'11.0.11'`
+- Visual Studio Code: `'1.56.2'`
+- LibGDX: `'1.10.0'`
 
 ## Installation
 [Back to top](#Table-Of-Contents)

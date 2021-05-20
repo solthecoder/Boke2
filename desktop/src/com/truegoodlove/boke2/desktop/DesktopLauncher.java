@@ -1,15 +1,15 @@
 package com.truegoodlove.boke2.desktop;
 
-import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
-import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.truegoodlove.boke2.desktop.Drop;
+import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
+//import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
+//import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
+import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
+//import com.truegoodlove.boke2.desktop.Drop;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
-		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
-		config.title ="Drop";
-		config.width = 600;
-		config.height = 600;
-		new LwjglApplication(new Drop(), config);
+		Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
+		config.setTitle("Drop");
+		new Lwjgl3Application(new Drop(), config);
 	}
 }
